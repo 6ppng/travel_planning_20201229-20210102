@@ -4,7 +4,7 @@
 ## 1日目 12/29
 
 *   > 07:00 発 足利  
-    > 20:00 着 [神戸ポートタワーホテル なごみの湯宿](https://www.kobe-porttower-hotel.com/nagomi/)
+    > 20:00 着 [神戸ポートタワーホテル なごみの湯宿](https://goo.gl/maps/63W3TQXXBdaomAK59)
     * 移動 8h [ルート](https://yahoo.jp/rBnnxS)
     * 食事 2h
         * 昼夜2回
