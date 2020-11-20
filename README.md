@@ -5,23 +5,31 @@
 
 *   > 07:00 発 足利  
     > 20:00 着 [神戸ポートタワーホテル なごみの湯宿](https://www.kobe-porttower-hotel.com/nagomi/)
-    * 移動 8h
+    * 移動 8h [ルート](https://yahoo.jp/rBnnxS)
     * 食事 2h
         * 昼夜2回
     * 休憩 1h
     * 渋滞考慮 2h
-    * 高速料金 /15,180       
+    * 高速料金 /15,180 [ルート1](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=足利&arrivePlaceKana=京橋%28阪神高速%29&searchHour=7&searchMinute=0&kind=1&carType=1&priority=2&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2020&searchMonth=12&searchDay=29&selectickindflg=0)
 *   **極力休息**
 
 ## 2日目 12/30
 
 * 06:00 起床
-*   > 07:00 発 スーパーホテル東舞鶴  
-    > 13:00 着 出雲大社
-    * 移動 5h
-    * 食事, 休憩 1h
-* 出雲大社観光 2h
-*   > 16:00 発 出雲大社  
+*   > 07:00 発 神戸ポートタワーホテル なごみの湯宿  
+    > 08:00 着 鳴門大橋
+    * 移動 1h
+    * 観光 1h
+    > 09:00 発　鳴門大橋
+    > 10:00 着　瀬戸大橋
+    * 移動 1h
+    * 観光 1h
+    > 11:00 発　瀬戸大橋
+    > 11:30 着　めし
+    * 移動 0.5h
+    * 食事 1h
+    > 12:30 発
+
     > 18:00 着 [晴嵐荘](https://www.seiranso.jp/)
     * 移動 1h
     * 休憩 0h
