@@ -5,7 +5,7 @@
 
 *   > 07:00 発 足利  
     > 20:00 着 [神戸ポートタワーホテル なごみの湯宿](https://goo.gl/maps/63W3TQXXBdaomAK59)
-    * 移動 8h [ルート](https://yahoo.jp/rBnnxS)
+    * 移動 8h [ルート](https://goo.gl/maps/x1yDdCnKdPUkB349A)
     * 食事 2h
         * 昼夜2回
     * 休憩 1h
@@ -17,7 +17,7 @@
 
 *   > 07:00 発 足利  
     > 20:00 着 [kotobukian 寿庵](https://goo.gl/maps/ueyBWsNvdEnkAf4v5)　([宿公式サイト](https://kotobukian-awaji.com))
-    * 移動 8h [ルート](https://yahoo.jp/rBnnxS)
+    * 移動 8h [ルート](https://goo.gl/maps/LLwCnKA7Rxpkd1Xq9)
     * 食事 2h
         * 昼夜2回
     * 休憩 1h
