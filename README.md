@@ -50,7 +50,7 @@
     > 16:30 着 尾道市
     * 移動 1h
     * 観光　1.5h
-    > 18:00 着 [onomichi hostel yutori](https://goo.gl/maps/W4BHTnqf5Zc67WkZ8)
+    > 18:00 着 [onomichi hostel yutori](https://goo.gl/maps/W4BHTnqf5Zc67WkZ8) ([宿詳細](https://www.booking.com/hotel/jp/onomichi-hostel-yutori.ja.html))
 * **ゆっくり休む**
 
 ### 2日目 検討メモ
@@ -70,7 +70,7 @@
     > 16:30 着 尾道市  
     * 移動 1h
     * 観光　1.5h
-    > 18:00 着 [onomichi hostel yutori](https://goo.gl/maps/W4BHTnqf5Zc67WkZ8)
+    > 18:00 着 [onomichi hostel yutori](https://goo.gl/maps/W4BHTnqf5Zc67WkZ8) ([宿詳細](https://www.booking.com/hotel/jp/onomichi-hostel-yutori.ja.html))
 * **ゆっくり休む**
 
 ## 3日目 12/31
