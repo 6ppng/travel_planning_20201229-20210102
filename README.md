@@ -3,27 +3,10 @@
 
 ## 1日目 12/29
 
-*   > 07:00 発 足利  
-    > 20:00 着 [神戸ポートタワーホテル なごみの湯宿](https://goo.gl/maps/63W3TQXXBdaomAK59)
-    * 移動 8h [ルート](https://goo.gl/maps/x1yDdCnKdPUkB349A)
-    * 食事 2h
-        * 昼夜2回
-    * 休憩 1h
-    * 渋滞考慮 2h
-    * 高速料金 /15,180 [ルート1](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=足利&arrivePlaceKana=京橋%28阪神高速%29&searchHour=7&searchMinute=0&kind=1&carType=1&priority=2&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2020&searchMonth=12&searchDay=29&selectickindflg=0)
-*   **極力休息**
-
-### 1日目 検討メモ
-
-*   > 07:00 発 足利  
-    > 20:00 着 [kotobukian 寿庵](https://goo.gl/maps/ueyBWsNvdEnkAf4v5)　([宿公式サイト](https://kotobukian-awaji.com))
-    * 移動 8h [ルート](https://goo.gl/maps/LLwCnKA7Rxpkd1Xq9)
-    * 食事 2h
-        * 昼夜2回
-    * 休憩 1h
-    * 渋滞考慮 2h
-    * 高速料金 /16,480 [ルート2](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=足利&arrivePlaceKana=東浦&searchHour=7&searchMinute=0&kind=1&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2020&searchMonth=12&searchDay=29&roadType1=off&roadType2=off&roadType=15&carType=1&priority=3&selectickindflg=0)
-*   **極力休息**
+|時間帯|場所・ルート|種別|料金|備考|
+|--|--|--|--|--|--|
+|07:00-20:00|[足利-kotobukian 寿庵](https://goo.gl/maps/LLwCnKA7Rxpkd1Xq9)|移動(高速)|[16,480](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=足利&arrivePlaceKana=東浦&searchHour=7&searchMinute=0&kind=1&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2020&searchMonth=12&searchDay=29&roadType1=off&roadType2=off&roadType=15&carType=1&priority=3&selectickindflg=0)|食事(昼夜2回)2h, 休憩1h, 渋滞考慮2h|
+|20:00-|[kotobukian 寿庵](https://goo.gl/maps/ueyBWsNvdEnkAf4v5)|宿泊|要確認|極力休息|
 
 ## 2日目 12/30
 
@@ -154,3 +137,13 @@
 *   > 07:00 発 ホテルルートイン浜名湖  
     > HH:MM 着 足利  
     > サウナしきじ経由
+
+
+## 日程表テンプレ
+
+```md
+|時間帯|場所・ルート|種別|料金|備考|
+|--|--|--|--|--|--|
+|HH:MM-HH:MM|[場所](https://goo.gl/maps/*)|観光, 食事, 宿泊, ...|00000|メモ|
+|HH:MM-HH:MM|[出発地-(経由地)-目的地](https://map.yahoo.co.jp/*)|移動, 移動(高速)|[00000](https://www.driveplaza.com/*)|メモ|
+```
