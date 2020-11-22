@@ -1,77 +1,45 @@
 # travel_planning_20201229-20210102
 旅行計画 2020/12/29 - 2021/01/02
 
-## 1日目 12/29
+## 日程表テンプレ
 
-|時間帯|場所・ルート|種別|料金|備考|
+* URLは原則以下のサイトのものを貼る
+    * 場所のURL : googleMap `https://goo.gl/maps/*`
+    * ルートのURL : yahooMap `https://map.yahoo.co.jp/*`
+    * 高速料金のURL : ドラぷら `https://www.driveplaza.com/*`
+
+    ```md
+    |時間帯|種別|場所・ルート|料金|メモ|
+    |--|--|--|--|--|
+    |HH:MM-HH:MM|観光, 食事, 宿泊, ...|[場所](場所のURL)|00000|メモ|
+    |HH:MM-HH:MM|移動, 移動(高速)|[出発地 -> (経由地 -> )目的地](ルートのURL)|[値段](高速料金のURL)|メモ|
+    ```
+
+* TODO: この項目は作成完了後削除する
+
+## 日程表
+
+|時間帯|種別|場所・ルート|料金|メモ|
 |--|--|--|--|--|
-|07:00-20:00|[足利-kotobukian 寿庵](https://goo.gl/maps/LLwCnKA7Rxpkd1Xq9)|移動(高速)|[16,480](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=足利&arrivePlaceKana=東浦&searchHour=7&searchMinute=0&kind=1&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2020&searchMonth=12&searchDay=29&roadType1=off&roadType2=off&roadType=15&carType=1&priority=3&selectickindflg=0)|食事(昼夜2回)2h, 休憩1h, 渋滞考慮2h|
-|20:00-|[kotobukian 寿庵](https://goo.gl/maps/ueyBWsNvdEnkAf4v5)|宿泊|要確認|極力休息|
-
-## 2日目 12/30
-
-* 06:00 起床
-*   > 07:00 発 神戸ポートタワーホテル なごみの湯宿  
-    > 08:00 着 鳴門大橋
-    * 移動 1h
-    * 観光 1h
-    > 09:00 発　鳴門大橋  
-    > 10:00 着　瀬戸大橋
-    * 移動 1h
-    * 観光 1h
-    > 10:00 発　瀬戸大橋  
-    > 11:30 着　日生カキオコ
-    * 移動 1.5h
-    * 食事 1.5h
-    > 13:00 発 日生カキオコ  
-    > 14:30 着 瀬戸大橋
-    * 移動 1.5h
-    > 14:30 発 瀬戸大橋  
-    > 15:30 着 今治市
-    * 移動 1h
-    > 15:30 発 今治市  
-    > 16:30 着 尾道市
-    * 移動 1h
-    * 観光　1.5h
-    > 18:00 着 [onomichi hostel yutori](https://goo.gl/maps/W4BHTnqf5Zc67WkZ8) ([宿詳細](https://www.booking.com/hotel/jp/onomichi-hostel-yutori.ja.html))
-* **ゆっくり休む**
-
-### 2日目 検討メモ
-
-* 06:00 起床
-*   > 07:00 発 神戸ポートタワーホテル なごみの湯宿  
-    > 08:00 着 鳴門大橋
-    * 移動 1h
-    * 観光 1h
-    > 09:00 発　鳴門大橋  
-    > 12:00 着　道後温泉
-    * 移動 3h
-    * 観光 1h
-    * 食事 1h
-    > 14:00 発　道後温泉  
-    > 15:00 経由　今治市
-    > 16:30 着 尾道市  
-    * 移動 1h
-    * 観光　1.5h
-    > 18:00 着 [onomichi hostel yutori](https://goo.gl/maps/W4BHTnqf5Zc67WkZ8) ([宿詳細](https://www.booking.com/hotel/jp/onomichi-hostel-yutori.ja.html))
-* **ゆっくり休む**
-
-## 3日目 12/31
-
-* 06:00 起床
-*   > 09:00 発 onomichi hostel yutori 
-    > 10:00 着 呉
-* 自由観光 4h (含 食事)
-    * したいこと・いきたいとこ・たべたいもの
-        * 大和ミュージアム 1000-1200
-        * 昼飯 牡蠣など 1200-1300
-        * 鹿島の段々畑 1300-1700
-        * 灰ヶ峰展望台 1730ごろ
-            * 日没 1709
-        * ...etc
-*   > 19:00 発 呉  
-    > 20:00 着 onomichi hostel yutori
-    * 移動 1h
+|**`1日目 12/29`**|
+|07:00-20:00|移動(高速)|[足利 -> kotobukian 寿庵](https://goo.gl/maps/LLwCnKA7Rxpkd1Xq9) <br>TODO: ルートのURLをyahooMapにする|[16,480](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=足利&arrivePlaceKana=東浦&searchHour=7&searchMinute=0&kind=1&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2020&searchMonth=12&searchDay=29&roadType1=off&roadType2=off&roadType=15&carType=1&priority=3&selectickindflg=0)|移動8h, 食事(昼夜2回)2h, 休憩1h, 渋滞考慮2h|
+|20:00-|宿泊|[kotobukian 寿庵](https://goo.gl/maps/ueyBWsNvdEnkAf4v5)|TODO: 宿泊料金を確認|極力休息|
+|**`2日目 12/30`**|
+|07:00-08:00|移動(高速)|[kotobukian 寿庵 -> 大鳴門橋遊歩道 渦の道](ルートのURL)<br>TODO:ルートのURLを貼る|[TODO:高速代を確認](高速料金のURL)|-|
+|08:00-09:00|観光|[大鳴門橋遊歩道 渦の道](https://goo.gl/maps/RAsDLbVwrkFXsFr67)|-|-|
+|09:00-12:00|移動(高速)|[鳴門大橋 -> 道後温泉](ルートのURL)<br>TODO:ルートのURLを貼る|[TODO:高速代を確認](高速料金のURL)|-|
+|12:00-14:00|食事, 観光|[道後温泉](https://goo.gl/maps/VbgHYLvt7bAjL4ASA)|-|-|
+|14:00-16:30|移動(高速)|[道後温泉 -> 尾長市](ルートのURL)<br>TODO:ルートのURLを貼る|[TODO:高速代を確認](高速料金のURL)|-|
+|16:30-??:??|観光|[尾長市内 TODO: 行きたい場所考えとく]()|-|-|
+|??:??-18:00|移動|[尾長市内 -> onomichi hostel yutori]()|-|ホテルに向かう時刻は適当で現地で判断(?)|
+|18:00-|宿泊|[onomichi hostel yutori](https://goo.gl/maps/W4BHTnqf5Zc67WkZ8)|TODO: 宿泊料金を確認|-|
+|**`3日目 12/31`**|
+|09:00-10:00|移動(高速)|[onomichi hostel yutori -> 呉](ルートのURL)<br>TODO:ルートのURLを貼る|[TODO:高速代を確認](高速料金のURL)|-|
+|10:00-12:00|観光|[大和ミュージアム](https://goo.gl/maps/EYzXvw7Ae64Ccuhn9)|-|-|
+|12:00-13:00|食事|[TODO: 行きたい店を考えとく]()|-|-|
+|13:00-17:00|観光, 移動|[鹿島の段々畑](https://goo.gl/maps/2wC1hxr3egYwFDgV8)|-|-|
+|17:30-19:00|観光|[灰ヶ峰展望台](https://goo.gl/maps/CwNbaAp85NVia5kDA)
+|19:00-20:00|移動(高速)|[呉 -> onomichi hostel yutori](ルートのURL)<br>TODO:ルートのURLを貼る|[TODO:高速代を確認](高速料金のURL)|-|
 
 ## 4日目 01/01
 
@@ -137,13 +105,3 @@
 *   > 07:00 発 ホテルルートイン浜名湖  
     > HH:MM 着 足利  
     > サウナしきじ経由
-
-
-## 日程表テンプレ
-
-```md
-|時間帯|場所・ルート|種別|料金|備考|
-|--|--|--|--|--|
-|HH:MM-HH:MM|[場所](https://goo.gl/maps/*)|観光, 食事, 宿泊, ...|00000|メモ|
-|HH:MM-HH:MM|[出発地-(経由地)-目的地](https://map.yahoo.co.jp/*)|移動, 移動(高速)|[00000](https://www.driveplaza.com/*)|メモ|
-```
