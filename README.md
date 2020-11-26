@@ -21,8 +21,8 @@
 
 |時間帯|種別|場所・ルート|料金|メモ|
 |--|--|--|--|--|
-|07:00-20:00|移動(高速)|[足利 -> 神戸](https://goo.gl/maps/LLwCnKA7Rxpkd1Xq9) <br>TODO: ルートのURLをyahooMapにする|[16,480](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=足利&arrivePlaceKana=東浦&searchHour=7&searchMinute=0&kind=1&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2020&searchMonth=12&searchDay=29&roadType1=off&roadType2=off&roadType=15&carType=1&priority=3&selectickindflg=0)|移動8h, 食事(昼夜2回)2h, 休憩1h, 渋滞考慮2h|
-|20:00-|宿泊|[kotobukian 寿庵](https://goo.gl/maps/ueyBWsNvdEnkAf4v5)|TODO: 宿泊料金を確認|極力休息|
+|07:00-20:00|移動(高速)|[足利 -> 神戸](https://yahoo.jp/6rKKJi) |[16,480](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=足利&arrivePlaceKana=東浦&searchHour=7&searchMinute=0&kind=1&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2020&searchMonth=12&searchDay=29&roadType1=off&roadType2=off&roadType=15&carType=1&priority=3&selectickindflg=0)|移動8h, 食事(昼夜2回)2h, 休憩1h, 渋滞考慮2h|
+|20:00-|宿泊|[kotobukian 寿庵](https://goo.gl/maps/ueyBWsNvdEnkAf4v5)|12,100<br>(1人6,050)|極力休息|
 
 * チェックポイント
     * [ ] リンクの不備はないか
@@ -34,13 +34,13 @@
 
 |時間帯|種別|場所・ルート|料金|メモ|
 |--|--|--|--|--|
-|07:00-08:00|移動(高速)|[神戸 -> 鳴門大橋](ルートのURL)<br>TODO:ルートのURLを貼る|[TODO:高速代を確認](高速料金のURL)|-|
+|07:00-08:00|移動(高速)|[神戸 -> 鳴門大橋](https://yahoo.jp/51QwKi)|[2,020](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=東浦&arrivePlaceKana=鳴門北&searchHour=7&searchMinute=0&kind=1&carType=1&priority=2&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2020&searchMonth=12&searchDay=30&selectickindflg=0)|-|
 |08:00-09:00|観光|[大鳴門橋遊歩道 渦の道](https://goo.gl/maps/RAsDLbVwrkFXsFr67)|-|-|
-|09:00-12:00|移動(高速)|[鳴門大橋 -> 道後温泉](ルートのURL)<br>TODO:ルートのURLを貼る|[TODO:高速代を確認](高速料金のURL)|-|
+|09:00-12:00|移動(高速)|[鳴門大橋 -> 道後温泉](https://yahoo.jp/-_aMjW)|[4,870](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=鳴門北&arrivePlaceKana=川内&searchHour=9&searchMinute=0&kind=1&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2020&searchMonth=12&searchDay=30&roadType1=off&roadType2=off&roadType=15&carType=1&priority=2&selectickindflg=0)|-|
 |12:00-14:00|食事, 観光|[道後温泉本館](https://goo.gl/maps/VbgHYLvt7bAjL4ASA)|-|-|
-|14:00-16:30|移動(高速)|[道後温泉 -> 尾長市](ルートのURL)<br>TODO:ルートのURLを貼る|[TODO:高速代を確認](高速料金のURL)|-|
+|14:00-16:30|移動(高速)|[道後温泉 -> 尾長市](https://yahoo.jp/82bNKH)|[2,620](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=今治北&arrivePlaceKana=向島%28西瀬戸道%29&searchHour=14&searchMinute=0&kind=1&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2020&searchMonth=12&searchDay=30&roadType1=off&roadType2=off&roadType=15&carType=1&priority=2&selectickindflg=0)|-|
 |16:30-18:00|観光|[尾長市内 TODO: 行きたい場所考えとく]()|-|-|
-|18:00-|宿泊|[onomichi hostel yutori](https://goo.gl/maps/W4BHTnqf5Zc67WkZ8)|TODO: 宿泊料金を確認|-|
+|18:00-|宿泊|[onomichi hostel yutori](https://goo.gl/maps/W4BHTnqf5Zc67WkZ8)|6,500|-|
 
 * チェックポイント
     * [ ] リンクの不備はないか
@@ -52,13 +52,13 @@
 
 |時間帯|種別|場所・ルート|料金|メモ|
 |--|--|--|--|--|
-|09:00-10:00|移動(高速)|[尾道 -> 呉](ルートのURL)<br>TODO:ルートのURLを貼る|[TODO:高速代を確認](高速料金のURL)|-|
+|09:00-10:00|移動(高速)|[尾道 -> 呉](https://yahoo.jp/16ezXq)|[1,200](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=尾道&arrivePlaceKana=高屋&searchHour=21&searchMinute=20&kind=1&carType=1&priority=2&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2020&searchMonth=11&searchDay=26&selectickindflg=0)|-|
 |10:00-12:00|観光|[大和ミュージアム](https://goo.gl/maps/EYzXvw7Ae64Ccuhn9)|-|-|
 |12:00-13:00|食事|[TODO: 行きたい店を考えとく]()|-|-|
 |13:00-17:00|観光, 移動|[鹿島の段々畑](https://goo.gl/maps/2wC1hxr3egYwFDgV8)|-|-|
 |17:30-19:00|観光|[灰ヶ峰展望台](https://goo.gl/maps/CwNbaAp85NVia5kDA)
-|19:00-20:00|移動(高速)|[呉 -> 尾道](ルートのURL)<br>TODO:ルートのURLを貼る|[TODO:高速代を確認](高速料金のURL)|-|
-|20:00-|宿泊|[onomichi hostel yutori](https://goo.gl/maps/W4BHTnqf5Zc67WkZ8)|TODO: 宿泊料金を確認|-|
+|19:00-20:00|移動(高速)|[呉 -> 尾道](https://yahoo.jp/16ezXq)|[1,200](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=尾道&arrivePlaceKana=高屋&searchHour=21&searchMinute=20&kind=1&carType=1&priority=2&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2020&searchMonth=11&searchDay=26&selectickindflg=0)|-|
+|20:00-|宿泊|[onomichi hostel yutori](https://goo.gl/maps/W4BHTnqf5Zc67WkZ8)|6,500|-|
 
 * チェックポイント
     * [ ] リンクの不備はないか
