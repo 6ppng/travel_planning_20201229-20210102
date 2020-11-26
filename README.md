@@ -22,7 +22,7 @@
 |時間帯|種別|場所・ルート|料金|メモ|
 |--|--|--|--|--|
 |07:00-20:00|移動(高速)|[足利 -> 神戸](https://yahoo.jp/6rKKJi) |[16,480](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=足利&arrivePlaceKana=東浦&searchHour=7&searchMinute=0&kind=1&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2020&searchMonth=12&searchDay=29&roadType1=off&roadType2=off&roadType=15&carType=1&priority=3&selectickindflg=0)|移動8h, 食事(昼夜2回)2h, 休憩1h, 渋滞考慮2h|
-|20:00-|宿泊|[kotobukian 寿庵](https://goo.gl/maps/ueyBWsNvdEnkAf4v5)|12,100<br>(1人6,050)|極力休息|
+|20:00-|宿泊|[kotobukian 寿庵](https://goo.gl/maps/esxe34sd4HKqGxsg8)|12,100<br>(1人6,050)|極力休息|
 
 * チェックポイント
     * [ ] リンクの不備はないか
