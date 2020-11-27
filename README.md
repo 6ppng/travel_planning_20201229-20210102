@@ -24,7 +24,7 @@
 |07:00-20:00|移動(高速)|[足利 -> 神戸](https://yahoo.jp/6rKKJi) |[16,480](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=足利&arrivePlaceKana=東浦&searchHour=7&searchMinute=0&kind=1&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2020&searchMonth=12&searchDay=29&roadType1=off&roadType2=off&roadType=15&carType=1&priority=3&selectickindflg=0)|移動8h, 食事(昼夜2回)2h, 休憩1h, 渋滞考慮2h|
 |20:00-|宿泊|[kotobukian 寿庵](https://goo.gl/maps/esxe34sd4HKqGxsg8)|12,100<br>(1人6,050)|極力休息|
 
-* チェックポイント
+* チェックポイント37645
     * [ ] リンクの不備はないか
     * [ ] 食事の時間を考慮したか
     * [ ] 休憩の時間を考慮したか
@@ -92,7 +92,7 @@
 
 |時間帯|種別|場所・ルート|料金|メモ|
 |--|--|--|--|--|
-|11:30-18:30|移動(高速)|[香川 -> (瀬戸大橋 or 鳴門大橋) -> 用宗](https://yahoo.jp/Bu92N9)|[9,850](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=志度&arrivePlaceKana=藤枝岡部&searchHour=11&searchMinute=0&kind=1&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2021&searchMonth=1&searchDay=1&roadType1=off&roadType2=off&roadType=15&carType=1&priority=2&selectickindflg=0)|-|
+|11:30-18:30|移動(高速)|[香川 -> (瀬戸大橋 or 鳴門大橋) -> 用宗](https://yahoo.jp/Bu92N9)|[9,850](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=志度&arrivePlaceKana=藤枝岡部&searchHour=11&searchMinute=0&kind=1&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2021&searchMonth=1&searchDay=1&roadType1=off&roadType2=off&roadType=15&carType=1&priority=2&selectickindflg=0)|移動5h, 休憩1h, 渋滞1h|
 |18:00-|宿泊|[coffee and stay 桃屋](https://g.page/coffee-and-stay-MOMOYA?share)|\5,850<br>1人\2,925|-|
 
 * チェックポイント
@@ -106,7 +106,7 @@
 |時間帯|種別|場所・ルート|料金|メモ|
 |--|--|--|--|--|
 |HH:MM-HH:MM|観光|[サウナしきじ](https://goo.gl/maps/goWepsyKv4kzcmCUA)|-|-|
-|HH:MM-HH:MM|移動(高速)|[静岡 -> 足利](https://yahoo.jp/OHsFgX)|[6,100](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=日本平久能山スマート&arrivePlaceKana=足利&searchHour=14&searchMinute=0&kind=1&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2021&searchMonth=1&searchDay=2&roadType1=off&roadType2=off&roadType=15&carType=1&priority=2&selectickindflg=0)|- 移動3~4h|
+|HH:MM-HH:MM|移動(高速)|[静岡 -> 足利](https://yahoo.jp/OHsFgX)|[6,100](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=日本平久能山スマート&arrivePlaceKana=足利&searchHour=14&searchMinute=0&kind=1&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2021&searchMonth=1&searchDay=2&roadType1=off&roadType2=off&roadType=15&carType=1&priority=2&selectickindflg=0)|移動3~4h|
 
 
 * チェックポイント
