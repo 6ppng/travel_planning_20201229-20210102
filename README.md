@@ -34,12 +34,12 @@
 
 |時間帯|種別|場所・ルート|料金|メモ|
 |--|--|--|--|--|
-|07:00-08:00|移動(高速)|[神戸 -> 鳴門大橋](https://yahoo.jp/51QwKi)|[2,020](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=東浦&arrivePlaceKana=鳴門北&searchHour=7&searchMinute=0&kind=1&carType=1&priority=2&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2020&searchMonth=12&searchDay=30&selectickindflg=0)|-|
-|08:00-09:00|観光|[大鳴門橋遊歩道 渦の道](https://goo.gl/maps/RAsDLbVwrkFXsFr67)|-|-|
-|09:00-12:00|移動(高速)|[鳴門大橋 -> 道後温泉](https://yahoo.jp/-_aMjW)|[4,870](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=鳴門北&arrivePlaceKana=川内&searchHour=9&searchMinute=0&kind=1&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2020&searchMonth=12&searchDay=30&roadType1=off&roadType2=off&roadType=15&carType=1&priority=2&selectickindflg=0)|-|
-|12:00-14:00|食事, 観光|[道後温泉本館](https://goo.gl/maps/VbgHYLvt7bAjL4ASA)|-|-|
-|14:00-16:30|移動(高速)|[道後温泉 -> 尾長市](https://yahoo.jp/82bNKH)|[2,620](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=今治北&arrivePlaceKana=向島%28西瀬戸道%29&searchHour=14&searchMinute=0&kind=1&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2020&searchMonth=12&searchDay=30&roadType1=off&roadType2=off&roadType=15&carType=1&priority=2&selectickindflg=0)|-|
-|16:30-18:00|観光|[尾長市内 TODO: 行きたい場所考えとく]()|-|-|
+|08:00-09:00|移動(高速)|[神戸 -> 鳴門大橋](https://yahoo.jp/51QwKi)|[2,020](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=東浦&arrivePlaceKana=鳴門北&searchHour=7&searchMinute=0&kind=1&carType=1&priority=2&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2020&searchMonth=12&searchDay=30&selectickindflg=0)|-|
+|09:00-09:30|観光|[大鳴門橋遊歩道 渦の道](https://goo.gl/maps/RAsDLbVwrkFXsFr67)|-|-|
+|09:30-12:30|移動(高速)|[鳴門大橋 -> 道後温泉](https://yahoo.jp/-_aMjW)|[4,870](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=鳴門北&arrivePlaceKana=川内&searchHour=9&searchMinute=0&kind=1&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2020&searchMonth=12&searchDay=30&roadType1=off&roadType2=off&roadType=15&carType=1&priority=2&selectickindflg=0)|-|
+|12:30-14:00|食事, 観光|[道後温泉本館](https://goo.gl/maps/VbgHYLvt7bAjL4ASA)|-|-|
+|14:00-16:30|移動(高速)|[道後温泉 -> 尾長市](https://yahoo.jp/82bNKH)<br>**15:30までには出発**|[2,620](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=今治北&arrivePlaceKana=向島%28西瀬戸道%29&searchHour=14&searchMinute=0&kind=1&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2020&searchMonth=12&searchDay=30&roadType1=off&roadType2=off&roadType=15&carType=1&priority=2&selectickindflg=0)|-|
+|16:30-18:00|吸収|各所での観光用のマージン|-|-|
 |18:00-|宿泊|[onomichi hostel yutori](https://goo.gl/maps/W4BHTnqf5Zc67WkZ8)|6,500|-|
 
 * チェックポイント
@@ -92,11 +92,8 @@
 
 |時間帯|種別|場所・ルート|料金|メモ|
 |--|--|--|--|--|
-|11:30-16:30|移動(高速)|[香川 -> (瀬戸大橋 or 鳴門大橋) -> 鳥羽](ルートのURL)<br>TODO:ルートのURLを貼る|[TODO:高速代を確認](高速料金のURL)|-|
-|16:30-17:40|虚無|鳥羽|
-|17:40-18:35|移動(フェリー)|[伊勢湾フェリー鳥羽営業所 -> 伊良湖営業所](https://www.isewanferry.co.jp/publics/index/175/#block795-40)|TODO: 運賃を確認|-|
-|18:40-20:00|移動(高速)|[伊良湖 -> 浜名湖](ルートのURL)<br>TODO:ルートのURLを貼る|[TODO:高速代を確認](高速料金のURL)|-|
-|20:00-|宿泊|[ホテルルートイン浜名湖](https://www.route-inn.co.jp/hotel_list/shizuoka/index_hotel_id_520/)|TODO: 宿泊料金を確認|-|
+|11:30-18:30|移動(高速)|[香川 -> (瀬戸大橋 or 鳴門大橋) -> 用宗](https://yahoo.jp/Bu92N9)|[9,850](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=志度&arrivePlaceKana=藤枝岡部&searchHour=11&searchMinute=0&kind=1&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2021&searchMonth=1&searchDay=1&roadType1=off&roadType2=off&roadType=15&carType=1&priority=2&selectickindflg=0)|-|
+|18:00-|宿泊|[coffee and stay 桃屋](https://g.page/coffee-and-stay-MOMOYA?share)|\5,850<br>1人\2,925|-|
 
 * チェックポイント
     * [ ] リンクの不備はないか
@@ -108,10 +105,9 @@
 
 |時間帯|種別|場所・ルート|料金|メモ|
 |--|--|--|--|--|
-|HH:MM-HH:MM|移動(高速)|[浜名湖 -> 静岡](ルートのURL)<br>TODO:ルートのURLを貼る|[TODO:高速代を確認](高速料金のURL)|-|
 |HH:MM-HH:MM|観光|[サウナしきじ](https://goo.gl/maps/goWepsyKv4kzcmCUA)|-|-|
-|HH:MM-HH:MM|移動(高速)|[静岡 -> 世田谷](ルートのURL)<br>TODO:ルートのURLを貼る|[TODO:高速代を確認](高速料金のURL)|-|
-|HH:MM-HH:MM|移動(高速)|[世田谷 -> 足利](ルートのURL)<br>TODO:ルートのURLを貼る|[TODO:高速代を確認](高速料金のURL)|-|
+|HH:MM-HH:MM|移動(高速)|[静岡 -> 足利](https://yahoo.jp/OHsFgX)|[6,100](https://www.driveplaza.com/dp/SearchQuick?startPlaceKana=日本平久能山スマート&arrivePlaceKana=足利&searchHour=14&searchMinute=0&kind=1&keiyuPlaceKana=&keiyuPlaceKana2=&keiyuPlaceKana3=&searchYear=2021&searchMonth=1&searchDay=2&roadType1=off&roadType2=off&roadType=15&carType=1&priority=2&selectickindflg=0)|- 移動3~4h|
+
 
 * チェックポイント
     * [ ] リンクの不備はないか
